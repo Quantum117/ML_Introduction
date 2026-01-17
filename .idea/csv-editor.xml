@@ -3,28 +3,14 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\3_linear_regression\cleaned_data.csv">
+        <entry key="\06_Gradient_descent\advertising.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\3_linear_regression\housing.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\4_polynomial_regression\housing_data.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\5_logistic_regression\heart_diceases.csv">
+        <entry key="\06_Gradient_descent\car_price.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
